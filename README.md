@@ -1,6 +1,8 @@
 <p align="center">
   <img src="assets/image-1.png" alt="Amlan Mishra | HR Tech & People Analytics" />
 </p>
+---
+
 # Hi, I'm Amlan 👋  
 
 Assistant Manager (C&B & Tech HR) @ KPMG | Building my path into **HR Tech & People Analytics** 🚀  
