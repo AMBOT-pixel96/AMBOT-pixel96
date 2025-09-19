@@ -27,3 +27,12 @@ Assistant Manager (C&B & Tech HR) @ KPMG | Building my path into **HR Tech & Peo
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/amlan-mishra-7aa70894)
+---
+
+## 📊 GitHub Stats  
+
+![Amlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMBOT-pixel96&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMBOT-pixel96&layout=compact&theme=tokyonight)  
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AMBOT-pixel96&theme=tokyonight)
